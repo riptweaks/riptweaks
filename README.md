@@ -13,14 +13,13 @@ Boost FPS, lower ping and remove input lag. Used by 250,000+ gamers.
 
 ## What RIP Tweaks does
 
-RIP Tweaks is a free PC optimizer and FPS booster for Windows 10 and 11. It reads your exact CPU, GPU and drives, then only applies what fits them. Every change is reversible, and it never touches game files or anti-cheat.
+- 🚀 **Boost FPS**
+- ⚡ **Lower input lag**
+- 📶 **Lower ping**
 
-- **Games:** finds your games in every launcher, with about 140 ready-made game presets
-- **Game session guard:** pauses Windows Update and background downloads while you play
-- **Fastest DNS (auto):** tests every DNS option from your PC and uses the quickest
-- **CPU, GPU, network, input and BIOS tweaks**, plus cleanup, backups and per-game presets
+Free for Windows 10 and 11. Every change is reversible.
 
-**RIP Tweaks 6** is out: rebuilt from scratch as a native Windows app. [See what's new](https://riptweaks.com/changelog/rip/6.0/).
+**RIP Tweaks 6** is out, rebuilt from scratch. [See what's new](https://riptweaks.com/changelog/rip/6.0/).
 
 Is it safe? Read [Is RIP Tweaks safe, and will it get me banned?](https://riptweaks.com/is-it-safe-and-will-i-get-banned/)
 
