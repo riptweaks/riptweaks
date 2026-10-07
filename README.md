@@ -25,4 +25,4 @@ Is it safe? Read [Is RIP Tweaks safe, and will it get me banned?](https://riptwe
 
 ## Find RIP Tweaks
 
-[YouTube](https://www.youtube.com/@rip.tweaks) · [TikTok](https://www.tiktok.com/@riptweaks) · [Instagram](https://www.instagram.com/riptweaks) · [X](https://x.com/riptweaks) · [Reddit](https://www.reddit.com/r/riptweaks/) · [Facebook](https://www.facebook.com/profile.php?id=61595186550110) · [Discord](https://discord.gg/riptweaks) · [Trustpilot](https://www.trustpilot.com/review/riptweaks.com)
+[YouTube](https://www.youtube.com/@rip.tweaks) · [TikTok](https://www.tiktok.com/@riptweaks) · [Instagram](https://www.instagram.com/riptweaks) · [X](https://x.com/riptweaks) · [Reddit](https://www.reddit.com/r/riptweaks/) · [Facebook](https://www.facebook.com/riptweaks) · [Discord](https://discord.gg/riptweaks) · [Trustpilot](https://www.trustpilot.com/review/riptweaks.com)
