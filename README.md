@@ -9,7 +9,7 @@ Boost FPS, lower input lag and lower ping. Used by 250,000+ gamers.
 
 [![Download free](https://img.shields.io/badge/Download-free-0A84FF?style=for-the-badge&logo=windows&logoColor=white)](https://riptweaks.com/download/)
 [![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-1f2937?style=for-the-badge)](https://riptweaks.com/download/)
-[![Version 6.8](https://img.shields.io/badge/version-6.8-1f2937?style=for-the-badge)](https://riptweaks.com/changelog/)
+[![Latest version](https://img.shields.io/github/v/release/riptweaks/rip-tweaks?style=for-the-badge&label=version&color=1f2937)](https://github.com/riptweaks/rip-tweaks/releases/latest)
 
 [Website](https://riptweaks.com) · [Premium](https://riptweaks.com/premium/) · [Changelog](https://riptweaks.com/changelog/) · [Free tools](https://riptweaks.com/tools/) · [Discord](https://riptweaks.com/discord)
 
@@ -25,7 +25,7 @@ Boost FPS, lower input lag and lower ping. Used by 250,000+ gamers.
 
 Free for Windows 10 and 11. Make a backup first, and switch any tweak off again whenever you like.
 
-**RIP Tweaks 6.8** is out. [See what's new](https://riptweaks.com/changelog/). Is it safe? Read [Is RIP Tweaks safe, and will it get me banned?](https://riptweaks.com/is-it-safe-and-will-i-get-banned/)
+**What's new:** [the latest release notes](https://github.com/riptweaks/rip-tweaks/releases/latest). Is it safe? Read [Is RIP Tweaks safe, and will it get me banned?](https://riptweaks.com/is-it-safe-and-will-i-get-banned/)
 
 ## Free tools
 
